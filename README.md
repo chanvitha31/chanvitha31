@@ -1,69 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,30:003300,60:006600,100:00FF41&height=180&section=header&text=TEJA%20NAIK&fontSize=80&fontColor=ffffff&fontAlignY=55&desc=Engineering%20Digital%20Experiences%20from%20the%20Ground%20Up&descFontColor=00FF41&descSize=16&descAlignY=78&animation=blinking&stroke=00FF41&strokeWidth=3&rotate=-1"/>
+<!-- ═══════════════════ CINEMATIC HEADER ═══════════════════ -->
 
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2000&pause=600&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=55&lines=%5B+SYSTEM+ONLINE+%5D+%E2%96%88+Full+Stack+Developer+%E2%96%88+India+%F0%9F%87%AE%F0%9F%87%B3;%5B+LOADING+%5D+%E2%96%88+React+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+MongoDB;%5B+ACTIVE+%5D+%E2%96%88+Building+AI-Powered+Web+Applications;%5B+OPEN+%5D+%E2%96%88+Available+for+Freelance+%26+Collaboration;%5B+CONNECT+%5D+%E2%96%88+tinkuteja740%40gmail.com)](https://git.io/typing-svg)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a00,60:003300,80:005500,100:00FF41&height=220&section=header&text=TEJA%20NAIK&fontSize=90&fontColor=00FF41&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Digital%20Craftsman&descFontColor=c9d1d9&descSize=18&descAlignY=65&animation=fadeIn&stroke=00FF41&strokeWidth=2"/>
 
 <br/>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/teja-naik-0b3021282/"><img src="https://img.shields.io/badge/%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:tinkuteja740@gmail.com"><img src="https://img.shields.io/badge/%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://teja-portfolio-yrei.vercel.app/"><img src="https://img.shields.io/badge/%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="https://x.com/TEJA_NAIKK"><img src="https://img.shields.io/badge/%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
-<a href="https://buymeacoffee.com/tejanaik15"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<!-- ═══════════════════ LIVE TERMINAL BANNER ═══════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%E2%96%B6+INITIALIZING+DEVELOPER+ENVIRONMENT...;%E2%96%B6+STACK%3A+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;%E2%96%B6+CRAFTING+AI-POWERED+WEB+EXPERIENCES;%E2%96%B6+BUILD+STATUS%3A+%E2%9C%94+ALL+SYSTEMS+OPERATIONAL;%E2%96%B6+OPEN+FOR+COLLABORATION+%26+FREELANCE;%E2%96%B6+tinkuteja740%40gmail.com+%E2%80%94+LET%27S+BUILD+SOMETHING)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<!-- ═══════════════════ CONNECT MATRIX ═══════════════════ -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/teja-naik-0b3021282/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=00FF41)](https://teja-portfolio-yrei.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:tinkuteja740@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1D9BF0)](https://x.com/TEJA_NAIKK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/eren_yeager9_/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0d1117)](https://buymeacoffee.com/tejanaik15)
+
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;`> whoami --verbose`
+<!-- ═══════════════════ ABOUT ME — TERMINAL CARD ═══════════════════ -->
 
-<table width="100%">
+## `$ whoami --full`
+
+```bash
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   ██████████████████████████████████████████████████████████████████   │
+│   ██                                                              ██   │
+│   ██   NAME       →  Teja Naik                                    ██   │
+│   ██   TITLE      →  Full Stack Developer                         ██   │
+│   ██   BASE       →  India 🇮🇳  (UTC +5:30)                      ██   │
+│   ██   FOCUS      →  AI-Powered Web Apps · REST APIs · React      ██   │
+│   ██   LEARNING   →  LangChain · RAG Pipelines · System Design    ██   │
+│   ██   OPEN TO    →  Freelance · Collabs · Full-time Roles        ██   │
+│   ██   CONTACT    →  tinkuteja740@gmail.com                       ██   │
+│   ██                                                              ██   │
+│   ██   "First, solve the problem. Then, write the code."          ██   │
+│   ██                                          – John Johnson      ██   │
+│   ██                                                              ██   │
+│   ██████████████████████████████████████████████████████████████████   │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-```yaml
-👤 Profile:
-  name       : Teja Naik
-  title      : Full Stack Developer
-  location   : India 🇮🇳
-  timezone   : IST (UTC+5:30)
+### 🔭 What I'm building
+- 🤖 AI-powered full stack web applications
+- 🔗 LangChain & RAG-powered chatbots
+- ⚡ High-performance REST APIs with Node.js
+- 🎨 Pixel-perfect UIs with React & Next.js
 
-🎯 Expertise:
-  frontend   : React.js · Next.js · TypeScript
-  backend    : Node.js · Express · REST APIs
-  database   : MongoDB · MySQL · PostgreSQL
-  cloud      : Firebase · Vercel · Docker
+</td>
+<td width="50%" valign="top">
 
-🤖 Currently:
-  building   : AI-powered web applications
-  learning   : LangChain · RAG · System Design
-  open_to    : Freelance · Collaboration · Jobs
+### 🌱 What I'm learning
+- 🧠 Vector databases & embeddings
+- 🏗️ Scalable system design patterns
+- 🐳 Docker & container orchestration
+- 📊 Advanced TypeScript patterns
 
-💡 Philosophy:
-  - "Code that works is good."
-  - "Code that's readable is great."
-  - "Code that scales is art."
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 My philosophy
+```
+Code that works   →  ✓ Good
+Code that's clean →  ✓✓ Great
+Code that scales  →  ✓✓✓ Art
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300px"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+### ⚡ Quick facts
+- 🎯 2+ years of production experience
+- 🌐 Built & shipped multiple live products
+- 📦 Comfortable from DB schema → deployed UI
+- 🤝 Always open to interesting projects
 
 </td>
 </tr>
@@ -71,226 +100,210 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<!-- ═══════════════════ TECH STACK — CINEMATIC GRID ═══════════════════ -->
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> &nbsp;`> tech --stack`
+## `$ tech-stack --list-all`
 
 <div align="center">
 
-### ⬡ &nbsp; Frontend Universe
+### 〔 FRONTEND 〕
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⬡ &nbsp; Backend & Database
+### 〔 BACKEND & DATABASE 〕
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⬡ &nbsp; AI / ML & DevOps
+### 〔 AI / ML LAYER 〕
 
-<p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### ⬡ &nbsp; Languages
+### 〔 DEVOPS & TOOLING 〕
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 〔 LANGUAGES 〕
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<!-- ═══════════════════ SKILL PROFICIENCY MATRIX ═══════════════════ -->
+
+## `$ skills --proficiency --verbose`
+
+<div align="center">
+
+| Layer | Technology | Proficiency | XP |
+|:-----:|:-----------|:-----------:|:--:|
+| 🎨 **UI** | React.js | `████████████████░░░░` **80%** | 2+ yrs |
+| 🎨 **UI** | Next.js | `█████████████░░░░░░░` **65%** | 1+ yr |
+| ⚙️ **API** | Node.js + Express | `█████████████████░░░` **85%** | 2+ yrs |
+| 🔷 **TYPE** | TypeScript | `██████████████░░░░░░` **70%** | 1+ yr |
+| 🍃 **DB** | MongoDB | `████████████████░░░░` **80%** | 2+ yrs |
+| 🔵 **DB** | PostgreSQL / MySQL | `███████████████░░░░░` **75%** | 1+ yr |
+| 🤖 **AI** | OpenAI + LangChain | `███████████░░░░░░░░░` **55%** | 1 yr |
+| 🐳 **OPS** | Docker | `█████████░░░░░░░░░░░` **45%** | 6 mo |
+
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> &nbsp;`> git log --all --stat`
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+
+## `$ git log --all --graph --stat`
 
 <div align="center">
 
 <a href="https://github.com/TejaNaik15">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TejaNaik15&show_icons=true&theme=merko&include_all_commits=true&count_private=true&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00D4FF&text_color=ffffff&ring_color=00FF41&border_radius=16&custom_title=Teja%27s+GitHub+Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=merko&hide_border=false&border=00FF41&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=c9d1d9&border_radius=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejaNaik15&show_icons=true&theme=merko&include_all_commits=true&count_private=true&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00D4FF&text_color=c9d1d9&ring_color=00FF41&border_radius=12&custom_title=Teja%27s+Git+Stats&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=merko&border=00FF41&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=c9d1d9&border_radius=12"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/TejaNaik15">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=donut&theme=merko&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=ffffff&border_radius=16&langs_count=8&custom_title=Languages+I+Code+In"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=donut-vertical&theme=merko&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_radius=12&langs_count=8&custom_title=Languages+Breakdown"/>
 </a>
 
 </div>
+
+---
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+## `$ achievements --list`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TejaNaik15&theme=matrix&no-frame=false&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
+
+## `$ git contributions --heatmap`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=0D1117&color=00FF41&line=00FF41&point=00D4FF&area=true&area_color=003300&hide_border=false&border_color=00FF41&custom_title=Teja%27s%20Contribution%20Map&radius=6&font_color=c9d1d9"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=0D1117&color=00FF41&line=00FF41&point=00D4FF&area=true&area_color=003300&hide_border=false&border_color=00FF41&custom_title=Teja%27s%20Contribution%20Map&radius=6&font_color=c9d1d9"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
+
+## `$ git commit --snake-mode`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake-dark.svg"/>
+</picture>
+
+<br/>
+<sub>⚙️ Enable this animation → <a href="https://github.com/Platane/snk">.github/workflows/snake.yml</a></sub>
+
+</div>
+
+---
+
+<!-- ═══════════════════ SPOTIFY ═══════════════════ -->
+
+## `$ spotify --now-playing`
+
+<div align="center">
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=4&width=500&unique=true" alt="Spotify Recently Played"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+## `$ ssh connect@teja --open-door`
+
+<div align="center">
+
+> **Building something cool? Need a collaborator? Have a wild idea?**
+> **My DMs are always open.**
 
 <br/>
 
-### 🏆 &nbsp; GitHub Trophies
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-naik-0b3021282/)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://teja-portfolio-yrei.vercel.app/)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinkuteja740@gmail.com)
+[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TEJA_NAIKK)
 
-<div align="center">
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TejaNaik15&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
----
-
-## 📡 &nbsp;`> git contributions --3d`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=0D1117&color=00FF41&line=00FF41&point=00D4FF&area=true&area_color=003300&hide_border=true&custom_title=Teja%27s%20Contribution%20Graph&radius=8"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=0D1117&color=00FF41&line=00FF41&point=00D4FF&area=true&area_color=003300&hide_border=true&custom_title=Teja%27s%20Contribution%20Graph&radius=8"/>
-</picture>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/tejanaik15)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
----
-
-## 🎯 &nbsp;`> ./skills --proficiency`
+<!-- ═══════════════════ FOOTER METRICS ═══════════════════ -->
 
 <div align="center">
 
-| Skill | Proficiency | Experience |
-|:------|:-----------|:-----------|
-| ⚛️ React.js | `████████████████░░░░` 80% | 2+ Years |
-| 🟢 Node.js | `█████████████████░░░` 85% | 2+ Years |
-| 🔷 TypeScript | `██████████████░░░░░░` 70% | 1+ Year |
-| 🍃 MongoDB | `████████████████░░░░` 80% | 2+ Years |
-| 🔵 Next.js | `█████████████░░░░░░░` 65% | 1+ Year |
-| 🐍 Python | `████████████░░░░░░░░` 60% | 1+ Year |
-| 🤖 AI/ML Integrations | `███████████░░░░░░░░░` 55% | 1 Year |
-| 🐳 Docker | `█████████░░░░░░░░░░░` 45% | 6 Months |
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
----
-
-## 🎧 &nbsp;`> spotify --now-playing`
-
-<div align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=4&width=480&unique=true" alt="Spotify Recently Played"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
----
-
-## 🐍 &nbsp;`> git commit --snake-mode`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake-dark.svg" />
-</picture>
-
-> ⚙️ To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` → [Setup Guide](https://github.com/Platane/snk)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
----
-
-## 📫 &nbsp;`> ssh connect@teja`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/teja-naik-0b3021282/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Teja%20Naik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://teja-portfolio-yrei.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Live%20Site-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>&nbsp;
-<a href="mailto:tinkuteja740@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-tinkuteja740@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://x.com/TEJA_NAIKK" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%40TEJA__NAIKK-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/eren_yeager9_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%40eren__yeager9__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://buymeacoffee.com/tejanaik15" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    "First, solve the problem. Then, write the code." – John Johnson  ║
-║                                                                      ║
-║     ⭐ Star repos you like  ·  🤝 Follow for content  ·  💬 DM me  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-![GitHub followers](https://img.shields.io/github/followers/TejaNaik15?style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&label=FOLLOWERS)&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/TejaNaik15?style=for-the-badge&color=00D4FF&labelColor=0d1117&logo=github&label=TOTAL+STARS)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/TejaNaik15?style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/TejaNaik15?style=for-the-badge&color=00D4FF&labelColor=0d1117&logo=github&label=TOTAL+STARS)
 ![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
+<!-- ═══════════════════ CINEMATIC FOOTER ═══════════════════ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:001a00,100:003300&height=120&section=footer&animation=blinking&stroke=00FF41&strokeWidth=2&reversal=true"/>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│     ⭐  If any of my repos helped you — drop a star. It means the world.    │
+│     🤝  Open to freelance, full-time, collabs, and interesting problems.     │
+│     💬  Reach out. I reply to every message.                                 │
+│                                                                              │
+│                       — Teja Naik, India 🇮🇳                               │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:0d1117&height=140&section=footer&animation=fadeIn&stroke=00FF41&strokeWidth=1&reversal=true"/>
