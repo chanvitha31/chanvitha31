@@ -123,6 +123,71 @@
 
 <br/>
 
+## &nbsp;&nbsp;Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp; AI Chat Application
+> Full-stack AI chat powered by OpenAI & LangChain with real-time streaming responses, conversation memory, and RAG-based document Q&A.
+
+![React](https://img.shields.io/badge/React-0d1b4b?style=flat-square&logoColor=c8b97a&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-0a1a0a?style=flat-square&logoColor=4ade80&logo=nodedotjs)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a1a?style=flat-square&logoColor=white&logo=openai)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a1a0a?style=flat-square&logoColor=4ade80&logo=mongodb)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 &nbsp; E-Commerce Platform
+> Production-ready full-stack store with cart, Stripe payments, admin dashboard, JWT auth, and order tracking.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logoColor=white&logo=nextdotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a1a0a?style=flat-square&logoColor=4ade80&logo=mongodb)
+![Stripe](https://img.shields.io/badge/Stripe-0d1b4b?style=flat-square&logoColor=c8b97a&logo=stripe)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logoColor=white&logo=tailwind-css)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 &nbsp; Real-time Dashboard
+> Analytics dashboard with live WebSocket data feeds, Chart.js visualizations, and role-based access control.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logoColor=61DAFB&logo=react)
+![Express](https://img.shields.io/badge/Express-0a0a1a?style=flat-square&logoColor=white&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b4b?style=flat-square&logoColor=c8b97a&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-1a0a0a?style=flat-square&logoColor=DC382D&logo=redis)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 &nbsp; Auth Microservice
+> Scalable authentication service with OAuth2, JWT rotation, refresh tokens, rate limiting, and Docker deployment.
+
+![Node.js](https://img.shields.io/badge/Node.js-0a1a0a?style=flat-square&logoColor=4ade80&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1b4b?style=flat-square&logoColor=c8b97a&logo=typescript)
+![Docker](https://img.shields.io/badge/Docker-0a0f1a?style=flat-square&logoColor=2496ED&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-1a1000?style=flat-square&logoColor=FFCA28&logo=firebase)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![All Repos](https://img.shields.io/badge/View_All_Repositories_→-0d1b4b?style=for-the-badge&logo=github&logoColor=c8b97a)](https://github.com/TejaNaik15?tab=repositories)
+
+</div>
+
+---
+
+<br/>
+
 ## &nbsp;&nbsp;Proficiency
 
 <div align="center">
@@ -218,11 +283,24 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,50:0d1b4b,100:1a0a4b&height=80&section=header&animation=fadeIn&reversal=false"/>
+
 <br/>
 
 ## &nbsp;&nbsp;Let's Build Something
 
 <div align="center">
+
+```
+  ╔══════════════════════════════════════════════════════════╗
+  ║                                                          ║
+  ║   Got an idea worth building?  Let's talk.              ║
+  ║   I reply to every message — always.                    ║
+  ║                                                          ║
+  ║   Freelance  ·  Full-time  ·  Collabs  ·  OSS           ║
+  ║                                                          ║
+  ╚══════════════════════════════════════════════════════════╝
+```
 
 *I'm available for freelance work, full-time roles, and interesting collaborations.*
 *If you have an idea or a problem worth solving — reach out.*
