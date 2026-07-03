@@ -1,22 +1,26 @@
-<!-- ANIMATED HEADER -->
+<!-- ============================================================
+     TEJA NAIK — GITHUB PROFILE README
+     Aesthetic: Deep Space Noir · Electric Violet · Cinematic
+     ============================================================ -->
+
+<!-- ██████████████  ANIMATED NAME HEADER  ██████████████ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:2d0a6e,100:0d0d0d&height=300&section=header&text=TEJA%20NAIK&fontSize=90&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descFontColor=a78bfa&descSize=18&descAlignY=75&animation=scaleIn&stroke=a78bfa&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=&animation=fadeIn"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=99999&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&height=100&lines=TEJA+NAIK" alt="TEJA NAIK"/>
 
-<!-- ANIMATED TYPING BANNER -->
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&duration=99999&pause=99999&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&height=30&lines=F+U+L+L+%E2%80%A2+S+T+A+C+K+%E2%80%A2+D+E+V+E+L+O+P+E+R+%E2%80%A2+A+I+%E2%80%A2+B+U+I+L+D+E+R+%E2%80%A2+I+N+D+I+A" alt="subtitle"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A78BFA&background=0D0D0D00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=52&lines=Hey+there!+I'm+Teja+%F0%9F%91%8B;Full+Stack+Developer+from+India;I+build+AI-powered+web+apps;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;Always+learning.+Always+shipping.;Open+for+Freelance+%26+Collaboration+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=A78BFA&background=00000000&center=true&vCenter=true&width=660&height=40&lines=→+React+·+Next.js+·+Node.js+·+MongoDB+·+OpenAI;→+Building+AI-powered+web+experiences;→+Always+learning.+Always+shipping.+🚀;→+Open+for+Freelance+%26+Collaboration)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- ██████████████  SOCIAL LINKS  ██████████████ -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/teja-naik-0b3021282/)
@@ -30,18 +34,14 @@
 
 <br/>
 
----
-
-<br/>
-
-<!-- ANIMATED BANNER DIVIDER -->
+<!-- ██████████████  DIVIDER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
 
-<!-- ABOUT ME -->
+<!-- ██████████████  ABOUT  ██████████████ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
 <table>
@@ -76,42 +76,39 @@ philosophy:
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- ██████████████  DIVIDER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
 
-<!-- TECH STACK WITH ANIMATED ICONS -->
+<!-- ██████████████  TECH STACK  ██████████████ -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp; Tech Stack
 
 <div align="center">
 
 ### ⟡ &nbsp; Frontend
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,bootstrap&theme=dark&perline=8" />
 
 ### ⟡ &nbsp; Backend & Database
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,redis,python&theme=dark&perline=8" />
 
 ### ⟡ &nbsp; AI · DevOps · Tools
-
 <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman,vercel,tensorflow,github,linux&theme=dark&perline=8" />
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- ██████████████  DIVIDER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
 
-<!-- GITHUB STATS - ALL ANIMATED -->
+<!-- ██████████████  GITHUB STATS  ██████████████ -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp; GitHub Stats
 
 <div align="center">
@@ -131,59 +128,50 @@ philosophy:
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- ██████████████  DIVIDER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
 
-<!-- TROPHIES -->
-## 🏆 &nbsp; Trophies
+<!-- ██████████████  INTERACTIVE: 3D ISOMETRIC CONTRIBUTION CALENDAR  ██████████████ -->
+## 🌐 &nbsp; 3D Contribution Calendar
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TejaNaik15&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![3D Contribution Calendar](https://github-readme-3d-contrib.vercel.app/api?username=TejaNaik15&theme=nord&flat=false)](https://github.com/TejaNaik15)
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-<br/>
-
-<!-- SKILL BARS -->
-## ⚡ &nbsp; Proficiency
-
-<div align="center">
-
-| Skill | Bar | Level |
-|:------|:----|------:|
-| Node.js + Express | `█████████████████░░░` | **85%** |
-| React.js | `████████████████░░░░` | **80%** |
-| MongoDB | `████████████████░░░░` | **80%** |
-| TypeScript | `██████████████░░░░░░` | **70%** |
-| Next.js | `█████████████░░░░░░░` | **65%** |
-| Python | `████████████░░░░░░░░` | **60%** |
-| AI / LangChain | `███████████░░░░░░░░░` | **55%** |
-| Docker | `█████████░░░░░░░░░░░` | **45%** |
-
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
+<!-- ██████████████  DIVIDER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
 
-<!-- ANIMATED CONTRIBUTION GRAPH -->
+<!-- ██████████████  INTERACTIVE: ANIMATED METRICS  ██████████████ -->
+## 📊 &nbsp; Live Metrics
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/TejaNaik15?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata&config.display=large&config.padding=0%2C+8px&config.animations=true&config.octicon=false&config.twemoji=false&config.gemoji=true&config.output=svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ██████████████  DIVIDER  ██████████████ -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+
+<br/>
+
+<!-- ██████████████  CONTRIBUTION GRAPH  ██████████████ -->
 ## 📡 &nbsp; Contribution Graph
 
 <div align="center">
@@ -197,36 +185,32 @@ philosophy:
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- ██████████████  DIVIDER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
 
-<!-- ANIMATED SNAKE -->
-## 🐍 &nbsp; Watch My Contributions Get Eaten
+<!-- ██████████████  INTERACTIVE: RANDOM DEV QUOTE  ██████████████ -->
+## 💬 &nbsp; Dev Quote of the Day
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake-dark.svg"/>
-</picture>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_color=a78bfa&author_color=ffffff)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- ██████████████  DIVIDER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
 
-<!-- SPOTIFY -->
+<!-- ██████████████  SPOTIFY  ██████████████ -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> &nbsp; Now Playing
 
 <div align="center">
@@ -237,14 +221,14 @@ philosophy:
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- ██████████████  DIVIDER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
 
-<!-- CONNECT -->
+<!-- ██████████████  CONNECT  ██████████████ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp; Let's Connect
 
 <div align="center">
@@ -278,13 +262,11 @@ philosophy:
 
 <br/>
 
-<!-- ANIMATED FOOTER -->
+<!-- ██████████████  FOOTER  ██████████████ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:2d0a6e,100:0d0d0d&height=160&section=footer&animation=scaleIn&stroke=a78bfa&strokeWidth=1&reversal=true"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&animation=fadeIn&reversal=true"/>
 </div>
