@@ -1,178 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a1a,40:0d1b4b,70:1a0a4b,100:0a0a1a&height=280&section=header&text=TEJA%20NAIK&fontSize=88&fontColor=ffffff&fontAlignY=55&fontAlign=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20India&descFontColor=c8b97a&descSize=17&descAlignY=72&descAlign=38&animation=fadeIn&stroke=c8b97a&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:09090b&height=20&section=header"/>
 
 </div>
 
-<br/>
+<!--  ╔═══════════════════════════════════════╗
+      ║   TEJA NAIK · GITHUB PROFILE README  ║
+      ╚═══════════════════════════════════════╝  -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3000&pause=1000&color=C8B97A&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=Building+AI-powered+experiences+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+OpenAI;Open+for+freelance+%26+collaboration;tinkuteja740%40gmail.com)](https://git.io/typing-svg)
+<br/>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=96&duration=99999&pause=99999&color=FFFFFF&background=09090b00&center=true&vCenter=true&width=800&height=120&lines=TEJA+NAIK" alt="Teja Naik"/>
+</picture>
+
+<br/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              FULL STACK DEVELOPER  ·  AI BUILDER  ·  INDIA  🇮🇳
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=15&duration=2800&pause=900&color=a78bfa&background=09090b00&center=true&vCenter=true&width=640&height=36&lines=→+React+·+Next.js+·+Node.js+·+MongoDB+·+OpenAI;→+Building+AI-powered+web+experiences;→+Open+for+freelance+%26+collaboration;→+tinkuteja740%40gmail.com)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=flat-square&logo=linkedin&logoColor=09090b&labelColor=ffffff)](https://www.linkedin.com/in/teja-naik-0b3021282/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23a78bfa.svg?style=flat-square&logo=vercel&logoColor=09090b&labelColor=a78bfa)](https://teja-portfolio-yrei.vercel.app/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-%23ffffff.svg?style=flat-square&logo=gmail&logoColor=09090b&labelColor=ffffff)](mailto:tinkuteja740@gmail.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%23a78bfa.svg?style=flat-square&logo=twitter&logoColor=09090b&labelColor=a78bfa)](https://x.com/TEJA_NAIKK)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23ffffff.svg?style=flat-square&logo=instagram&logoColor=09090b&labelColor=ffffff)](https://www.instagram.com/eren_yeager9_/)&nbsp;
+[![Buy Me A Coffee](https://img.shields.io/badge/Coffee-%23a78bfa.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=09090b&labelColor=a78bfa)](https://buymeacoffee.com/tejanaik15)
 
 </div>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b4b?style=flat-square&logo=linkedin&logoColor=c8b97a&labelColor=0d1b4b)](https://www.linkedin.com/in/teja-naik-0b3021282/)&ensp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a1a?style=flat-square&logo=vercel&logoColor=c8b97a&labelColor=0a0a1a)](https://teja-portfolio-yrei.vercel.app/)&ensp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d1b4b?style=flat-square&logo=gmail&logoColor=c8b97a&labelColor=0d1b4b)](mailto:tinkuteja740@gmail.com)&ensp;
-[![Twitter](https://img.shields.io/badge/Twitter-0a0a1a?style=flat-square&logo=twitter&logoColor=c8b97a&labelColor=0a0a1a)](https://x.com/TEJA_NAIKK)&ensp;
-[![Instagram](https://img.shields.io/badge/Instagram-0d1b4b?style=flat-square&logo=instagram&logoColor=c8b97a&labelColor=0d1b4b)](https://www.instagram.com/eren_yeager9_/)&ensp;
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-0a0a1a?style=flat-square&logo=buy-me-a-coffee&logoColor=c8b97a&labelColor=0a0a1a)](https://buymeacoffee.com/tejanaik15)
-
-</div>
+<br/><br/>
 
 ---
 
 <br/>
 
-## &nbsp;&nbsp;About
+## 01 — WHO I AM
 
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="52%">
 
-```
-  ╔══════════════════════════════════════╗
-  ║                                      ║
-  ║   Teja Naik                          ║
-  ║   Full Stack Developer               ║
-  ║   India  ·  UTC +5:30                ║
-  ║                                      ║
-  ║   2+ years building production       ║
-  ║   web apps end-to-end — from         ║
-  ║   database schema to deployed UI.    ║
-  ║                                      ║
-  ║   Currently focused on weaving       ║
-  ║   AI into everyday web products      ║
-  ║   using LangChain, RAG, and the      ║
-  ║   OpenAI ecosystem.                  ║
-  ║                                      ║
-  ║   ──────────────────────────────     ║
-  ║   Building  →  AI-powered apps       ║
-  ║   Learning  →  RAG · Sys Design      ║
-  ║   Open to   →  Freelance · Jobs      ║
-  ║                                      ║
-  ╚══════════════════════════════════════╝
-```
+I'm **Teja**, a full stack developer from India who builds things for the web — fast, clean, and purposeful.
+
+I started with the basics and kept going. Today I work across the entire stack: designing databases, building REST APIs, crafting React UIs, and wiring AI into products using OpenAI and LangChain.
+
+I don't have a decade of experience. What I have is obsession — a genuine love for shipping things that actually work, learning what I don't know, and solving problems that matter.
+
+**Currently building** → AI-powered web applications<br/>
+**Currently learning** → RAG pipelines · System design · LangChain<br/>
+**Open to** → Freelance projects · Full-time roles · Collabs
 
 </td>
-<td width="46%" valign="top" align="center">
+<td width="48%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280px"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=c8b97a&style=flat-square&label=Profile+Views)
-
-</td>
-</tr>
-</table>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-<br/>
-
-## &nbsp;&nbsp;Stack
-
-<div align="center">
-
-**— Frontend —**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1b4b?style=for-the-badge&logo=typescript&logoColor=c8b97a)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a1a?style=for-the-badge&logo=javascript&logoColor=c8b97a)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1a0a4b?style=for-the-badge&logo=html5&logoColor=c8b97a)
-![CSS3](https://img.shields.io/badge/CSS3-0d1b4b?style=for-the-badge&logo=css3&logoColor=c8b97a)
-
-**— Backend & Data —**
-
-![Node.js](https://img.shields.io/badge/Node.js-0a1a0a?style=for-the-badge&logo=nodedotjs&logoColor=4ade80)
-![Express](https://img.shields.io/badge/Express-0a0a1a?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a1a0a?style=for-the-badge&logo=mongodb&logoColor=4ade80)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b4b?style=for-the-badge&logo=postgresql&logoColor=c8b97a)
-![MySQL](https://img.shields.io/badge/MySQL-0d1b4b?style=for-the-badge&logo=mysql&logoColor=c8b97a)
-![Firebase](https://img.shields.io/badge/Firebase-1a1000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Redis](https://img.shields.io/badge/Redis-1a0a0a?style=for-the-badge&logo=redis&logoColor=DC382D)
-
-**— AI / ML —**
-
-![Python](https://img.shields.io/badge/Python-0d1b4b?style=for-the-badge&logo=python&logoColor=c8b97a)
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0a1a?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0800?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![LangChain](https://img.shields.io/badge/LangChain-0a1a10?style=for-the-badge&logo=langchain&logoColor=4ade80)
-
-**— DevOps & Tools —**
-
-![Docker](https://img.shields.io/badge/Docker-0a0f1a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-1a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1a0800?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1b4b?style=for-the-badge&logo=visual-studio-code&logoColor=c8b97a)
-
-</div>
-
----
-
-<br/>
-
-## &nbsp;&nbsp;Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 &nbsp; AI Chat Application
-> Full-stack AI chat powered by OpenAI & LangChain with real-time streaming responses, conversation memory, and RAG-based document Q&A.
-
-![React](https://img.shields.io/badge/React-0d1b4b?style=flat-square&logoColor=c8b97a&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-0a1a0a?style=flat-square&logoColor=4ade80&logo=nodedotjs)
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0a1a?style=flat-square&logoColor=white&logo=openai)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a1a0a?style=flat-square&logoColor=4ade80&logo=mongodb)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 &nbsp; E-Commerce Platform
-> Production-ready full-stack store with cart, Stripe payments, admin dashboard, JWT auth, and order tracking.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logoColor=white&logo=nextdotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a1a0a?style=flat-square&logoColor=4ade80&logo=mongodb)
-![Stripe](https://img.shields.io/badge/Stripe-0d1b4b?style=flat-square&logoColor=c8b97a&logo=stripe)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logoColor=white&logo=tailwind-css)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 &nbsp; Real-time Dashboard
-> Analytics dashboard with live WebSocket data feeds, Chart.js visualizations, and role-based access control.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logoColor=61DAFB&logo=react)
-![Express](https://img.shields.io/badge/Express-0a0a1a?style=flat-square&logoColor=white&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b4b?style=flat-square&logoColor=c8b97a&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-1a0a0a?style=flat-square&logoColor=DC382D&logo=redis)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 &nbsp; Auth Microservice
-> Scalable authentication service with OAuth2, JWT rotation, refresh tokens, rate limiting, and Docker deployment.
-
-![Node.js](https://img.shields.io/badge/Node.js-0a1a0a?style=flat-square&logoColor=4ade80&logo=nodedotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1b4b?style=flat-square&logoColor=c8b97a&logo=typescript)
-![Docker](https://img.shields.io/badge/Docker-0a0f1a?style=flat-square&logoColor=2496ED&logo=docker)
-![Firebase](https://img.shields.io/badge/Firebase-1a1000?style=flat-square&logoColor=FFCA28&logo=firebase)
+![Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=a78bfa&style=flat-square&label=profile+views)
 
 </td>
 </tr>
@@ -180,98 +74,205 @@
 
 <br/>
 
-[![All Repos](https://img.shields.io/badge/View_All_Repositories_→-0d1b4b?style=for-the-badge&logo=github&logoColor=c8b97a)](https://github.com/TejaNaik15?tab=repositories)
-
-</div>
-
 ---
 
 <br/>
 
-## &nbsp;&nbsp;Proficiency
+## 02 — WHAT I BUILD WITH
+
+<br/>
 
 <div align="center">
 
-| &nbsp; | Skill | Level | Experience |
-|:------:|:------|:-----:|:----------:|
-| ⚛️ | React.js | `████████████████░░░░` 80% | 2+ years |
-| 🟩 | Node.js + Express | `█████████████████░░░` 85% | 2+ years |
-| 🔷 | TypeScript | `██████████████░░░░░░` 70% | 1+ year |
-| 🍃 | MongoDB | `████████████████░░░░` 80% | 2+ years |
-| ◼️ | Next.js | `█████████████░░░░░░░` 65% | 1+ year |
-| 🐍 | Python | `████████████░░░░░░░░` 60% | 1+ year |
-| 🤖 | AI / LangChain | `███████████░░░░░░░░░` 55% | 1 year |
-| 🐳 | Docker | `█████████░░░░░░░░░░░` 45% | 6 months |
+<table>
+<tr>
+<td align="center" width="25%">
+
+**FRONTEND**
+
+![React](https://img.shields.io/badge/React-09090b?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-09090b?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-09090b?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![Tailwind](https://img.shields.io/badge/Tailwind-09090b?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-09090b?style=for-the-badge&logo=javascript&logoColor=facc15)
+![HTML5](https://img.shields.io/badge/HTML5-09090b?style=for-the-badge&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-09090b?style=for-the-badge&logo=css3&logoColor=38bdf8)
+
+</td>
+<td align="center" width="25%">
+
+**BACKEND**
+
+![Node.js](https://img.shields.io/badge/Node.js-09090b?style=for-the-badge&logo=nodedotjs&logoColor=4ade80)
+![Express](https://img.shields.io/badge/Express-09090b?style=for-the-badge&logo=express&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-09090b?style=for-the-badge&logo=python&logoColor=facc15)
+![REST API](https://img.shields.io/badge/REST_APIs-09090b?style=for-the-badge&logo=postman&logoColor=f97316)
+![C++](https://img.shields.io/badge/C++-09090b?style=for-the-badge&logo=c%2B%2B&logoColor=a78bfa)
+![C](https://img.shields.io/badge/C-09090b?style=for-the-badge&logo=c&logoColor=38bdf8)
+
+</td>
+<td align="center" width="25%">
+
+**DATA & CLOUD**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-09090b?style=for-the-badge&logo=mongodb&logoColor=4ade80)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09090b?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
+![MySQL](https://img.shields.io/badge/MySQL-09090b?style=for-the-badge&logo=mysql&logoColor=a78bfa)
+![Firebase](https://img.shields.io/badge/Firebase-09090b?style=for-the-badge&logo=firebase&logoColor=facc15)
+![Redis](https://img.shields.io/badge/Redis-09090b?style=for-the-badge&logo=redis&logoColor=f87171)
+![Vercel](https://img.shields.io/badge/Vercel-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff)
+
+</td>
+<td align="center" width="25%">
+
+**AI & DEVOPS**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-09090b?style=for-the-badge&logo=openai&logoColor=ffffff)
+![LangChain](https://img.shields.io/badge/LangChain-09090b?style=for-the-badge&logo=langchain&logoColor=4ade80)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-09090b?style=for-the-badge&logo=tensorflow&logoColor=f97316)
+![Docker](https://img.shields.io/badge/Docker-09090b?style=for-the-badge&logo=docker&logoColor=38bdf8)
+![Git](https://img.shields.io/badge/Git-09090b?style=for-the-badge&logo=git&logoColor=f87171)
+![VS Code](https://img.shields.io/badge/VS_Code-09090b?style=for-the-badge&logo=visual-studio-code&logoColor=a78bfa)
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
 <br/>
 
-## &nbsp;&nbsp;GitHub Stats
+## 03 — THINGS I'VE SHIPPED
+
+<br/>
+
+> These are real projects. Click to explore.
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp;AI Chat Platform
+A full-stack conversational AI app built with OpenAI's API and LangChain. Features streaming responses, persistent chat history in MongoDB, and document Q&A via RAG — upload a PDF and ask it anything.
+
+`React` `Node.js` `OpenAI` `LangChain` `MongoDB`
+
+<br/>
+
+### 🛒 &nbsp;Full Stack E-Commerce
+End-to-end shopping platform with product management, cart logic, Stripe checkout integration, order tracking, and a protected admin dashboard.
+
+`Next.js` `Tailwind CSS` `MongoDB` `Stripe` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 &nbsp;Real-time Analytics Dashboard
+Live data dashboard with WebSocket-powered updates, Chart.js visualizations, role-based access, and export to CSV. Built for performance on large datasets.
+
+`React` `Express` `PostgreSQL` `Redis` `Socket.io`
+
+<br/>
+
+### 🔐 &nbsp;Auth Microservice
+Standalone authentication service with JWT + refresh token rotation, OAuth2 social login, rate limiting, and full Docker containerization. Plug-and-play for any project.
+
+`Node.js` `TypeScript` `Firebase` `Docker` `Redis`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+[![See all repos](https://img.shields.io/badge/→_Browse_All_Repositories-09090b?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=09090b)](https://github.com/TejaNaik15?tab=repositories)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 04 — SKILL LEVELS
+
+<div align="center">
+
+| Skill | Proficiency |
+|:------|:------------|
+| React.js | `████████████████░░░░` **80%** |
+| Node.js + Express | `█████████████████░░░` **85%** |
+| MongoDB | `████████████████░░░░` **80%** |
+| TypeScript | `██████████████░░░░░░` **70%** |
+| Next.js | `█████████████░░░░░░░` **65%** |
+| Python | `████████████░░░░░░░░` **60%** |
+| AI / LangChain | `███████████░░░░░░░░░` **55%** |
+| Docker | `█████████░░░░░░░░░░░` **45%** |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 05 — GITHUB STATS
 
 <div align="center">
 
 <a href="https://github.com/TejaNaik15">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=TejaNaik15&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=c8b97a&bg_color=0a0a1a&title_color=c8b97a&icon_color=9b7fd4&text_color=e2e0f0&ring_color=c8b97a&border_radius=8&custom_title=Teja%27s+GitHub+Stats&hide_border=false"/>
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&theme=midnight-purple&border=c8b97a&background=0a0a1a&stroke=c8b97a&ring=c8b97a&fire=c8b97a&currStreakNum=e2e0f0&sideNums=e2e0f0&currStreakLabel=9b7fd4&sideLabels=9b7fd4&dates=6b6890&border_radius=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TejaNaik15&show_icons=true&include_all_commits=true&count_private=true&border_color=3f3f46&bg_color=09090b&title_color=a78bfa&icon_color=a78bfa&text_color=e4e4e7&ring_color=a78bfa&border_radius=6&custom_title=Stats&hide_border=false"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=TejaNaik15&border=3f3f46&background=09090b&stroke=3f3f46&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=71717a&border_radius=6"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/TejaNaik15">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=donut&theme=midnight-purple&border_color=c8b97a&bg_color=0a0a1a&title_color=c8b97a&text_color=e2e0f0&border_radius=8&langs_count=8&custom_title=Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaNaik15&layout=donut&border_color=3f3f46&bg_color=09090b&title_color=a78bfa&text_color=e4e4e7&border_radius=6&langs_count=8&custom_title=Languages"/>
 </a>
 
 </div>
 
+<br/>
+
 ---
 
 <br/>
 
-## &nbsp;&nbsp;Trophies
+## 06 — TROPHIES
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TejaNaik15&theme=dracula&no-frame=false&no-bg=false&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TejaNaik15&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+<br/>
 
 ---
 
 <br/>
 
-## &nbsp;&nbsp;Contribution Graph
+## 07 — CONTRIBUTIONS
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=0a0a1a&color=c8b97a&line=9b7fd4&point=c8b97a&area=true&area_color=1a0a4b&hide_border=false&border_color=c8b97a&custom_title=Contribution%20Timeline&radius=4&font_color=e2e0f0"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=0a0a1a&color=c8b97a&line=9b7fd4&point=c8b97a&area=true&area_color=1a0a4b&hide_border=false&border_color=c8b97a&custom_title=Contribution%20Timeline&radius=4&font_color=e2e0f0"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=09090b&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=1e1b4b&hide_border=false&border_color=3f3f46&custom_title=Activity+Graph&radius=4&font_color=e4e4e7"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaNaik15&bg_color=09090b&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=1e1b4b&hide_border=false&border_color=3f3f46&custom_title=Activity+Graph&radius=4&font_color=e4e4e7"/>
 </picture>
 
-</div>
-
----
-
-<br/>
-
-## &nbsp;&nbsp;Now Playing
-
-<div align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=4&width=500&unique=true" alt="Spotify Recently Played"/>
-
-</div>
-
----
-
-<br/>
-
-## &nbsp;&nbsp;Contribution Snake
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejaNaik15/TejaNaik15/output/github-snake-dark.svg"/>
@@ -281,48 +282,64 @@
 
 </div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,50:0d1b4b,100:1a0a4b&height=80&section=header&animation=fadeIn&reversal=false"/>
+---
 
 <br/>
 
-## &nbsp;&nbsp;Let's Build Something
+## 08 — NOW PLAYING
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║   Got an idea worth building?  Let's talk.              ║
-  ║   I reply to every message — always.                    ║
-  ║                                                          ║
-  ║   Freelance  ·  Full-time  ·  Collabs  ·  OSS           ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
-*I'm available for freelance work, full-time roles, and interesting collaborations.*
-*If you have an idea or a problem worth solving — reach out.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1b4b?style=for-the-badge&logo=linkedin&logoColor=c8b97a)](https://www.linkedin.com/in/teja-naik-0b3021282/)&ensp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0a0a1a?style=for-the-badge&logo=vercel&logoColor=c8b97a)](https://teja-portfolio-yrei.vercel.app/)&ensp;
-[![Email](https://img.shields.io/badge/Send_an_Email-0d1b4b?style=for-the-badge&logo=gmail&logoColor=c8b97a)](mailto:tinkuteja740@gmail.com)
-
-<br/>
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/tejanaik15)
-
-<br/><br/>
-
-![GitHub followers](https://img.shields.io/github/followers/TejaNaik15?style=flat-square&color=c8b97a&labelColor=0a0a1a&logo=github&label=Followers)&ensp;
-![GitHub stars](https://img.shields.io/github/stars/TejaNaik15?style=flat-square&color=c8b97a&labelColor=0a0a1a&logo=github&label=Stars)&ensp;
-![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=c8b97a&style=flat-square&label=Views)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=4&width=480&unique=true" alt="Spotify Recently Played"/>
 
 </div>
 
+<br/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a1a,40:0d1b4b,70:1a0a4b,100:0a0a1a&height=160&section=footer&animation=fadeIn&stroke=c8b97a&strokeWidth=1&reversal=true"/>
+<br/>
+
+## 09 — LET'S CONNECT
+
+<div align="center">
+
+<br/>
+
+```
+  If you're building something interesting, have a problem to solve,
+  or just want to talk tech — I'm always open to a conversation.
+```
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-09090b?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=09090b)](https://www.linkedin.com/in/teja-naik-0b3021282/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-09090b?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=09090b)](https://teja-portfolio-yrei.vercel.app/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Write-09090b?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=09090b)](mailto:tinkuteja740@gmail.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-09090b?style=for-the-badge&logo=twitter&logoColor=a78bfa&labelColor=09090b)](https://x.com/TEJA_NAIKK)
+
+<br/>
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-violet.png)](https://buymeacoffee.com/tejanaik15)
+
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/TejaNaik15?style=flat-square&color=a78bfa&labelColor=09090b&logo=github&label=followers)&nbsp;
+![Stars](https://img.shields.io/github/stars/TejaNaik15?style=flat-square&color=a78bfa&labelColor=09090b&logo=github&label=stars)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=a78bfa&style=flat-square&label=views)
+
+<br/><br/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    "First, solve the problem. Then, write the code."  — John Johnson
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:09090b&height=20&section=footer"/>
